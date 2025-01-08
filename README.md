@@ -25,7 +25,7 @@ I'm Ashraful Pathan a Junior Web Developer passionate about building interactive
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" alt="JavaScript" width="80" height="80" style="margin: 10px;" />
   <img src="https://dac.digital/wp-content/uploads/2023/11/react-logo-optimized.png" alt="React" width="80" height="80" style="margin: 10px;" />
   <img src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" alt="Next.js" width="80" height="80" style="margin: 10px;" />
-  <img src="https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png" alt="Express.js" width="80" height="80" style="margin: 10px;" />
+  <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="Express.js" width="80" height="80" style="margin: 10px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git" width="80" height="80" style="margin: 10px;" />
 </div>
 
