@@ -20,12 +20,12 @@ I'm Ashraful Pathan a Junior Web Developer passionate about building interactive
 ## 💻 My Tech Skills 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" width="80" height="80" style="margin: 10px;" />
-  <img src="https://www.w3schools.com/whatis/img_css.jpg" alt="CSS3" width="80" height="80" style="margin: 10px;" />
-  <img src="https://cdnblog.webkul.com/blog/wp-content/uploads/2024/05/tailwindcss-1633184775.webp" alt="Tailwind CSS" width="80" height="80" style="margin: 10px;" />
+  <img src="https://toppng.com/uploads/preview/bootstrap-social-media-icons-html-css-js-logo-11563293145uql7yehdq3.png" alt="CSS3" width="80" height="80" style="margin: 10px;" />
+  <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo-thumbnail.png" alt="Tailwind CSS" width="80" height="80" style="margin: 10px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" alt="JavaScript" width="80" height="80" style="margin: 10px;" />
   <img src="https://dac.digital/wp-content/uploads/2023/11/react-logo-optimized.png" alt="React" width="80" height="80" style="margin: 10px;" />
-  <img src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg" alt="Next.js" width="80" height="80" style="margin: 10px;" />
-  <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fhpg6if7btrwilqkidqbe.png" alt="Express.js" width="80" height="80" style="margin: 10px;" />
+  <img src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" alt="Next.js" width="80" height="80" style="margin: 10px;" />
+  <img src="https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png" alt="Express.js" width="80" height="80" style="margin: 10px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git" width="80" height="80" style="margin: 10px;" />
 </div>
 
