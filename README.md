@@ -38,7 +38,7 @@ I'm Ashraful Pathan a Junior Web Developer passionate about building interactive
 - 📍 **Location:** Bangladesh  
 - 📧 **Email:** ashrafulpathan3927@gmail.com 
 - 💼 **LinkedIn:** [Ashraful Pathan](https://www.linkedin.com/in/ashraful-pathan-3b2125344/) 
-- 🔗 **Portfolio:** [Your Portfolio](https://ashraful-pathan.web.app) 
+- 🔗 **Portfolio:** [My Portfolio](https://ashraful-pathan.web.app) 
 
 ---
 
@@ -50,13 +50,7 @@ I'm Ashraful Pathan a Junior Web Developer passionate about building interactive
 
 ---
 
-## 📌 Pinned Repositories  
 
-[![Repository Name](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-name&theme=radical)](https://github.com/your-username/repo-name)  
-[![Repository Name](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-name&theme=radical)](https://github.com/your-username/repo-name)  
-[![Repository Name](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-name&theme=radical)](https://github.com/your-username/repo-name)  
-
----
 
 ## ✨ Contributions  
 
