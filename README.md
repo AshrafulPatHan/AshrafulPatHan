@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="401" src="https://i.ibb.co.com/hRSGwz2/Purple-4-1.png"  />
+  <img height="401" src="https://i.ibb.co.com/9kcsFzgz/Purple-4-1.jpg"  />
 </div>
 
 ###
