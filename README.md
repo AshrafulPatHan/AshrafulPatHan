@@ -1,6 +1,6 @@
 # Ashraful Pathan  
 
-![Banner](https://i.ibb.co.com/hRSGwz2/Purple-4-1.png)
+![Banner]([https://i.ibb.co.com/hRSGwz2/Purple-4-1.png](https://i.ibb.co.com/B5S6tNnM/Purple-4-1.png))
 
 ### Junior Web Developer | Frontend  
 
