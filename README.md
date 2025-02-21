@@ -75,7 +75,12 @@
 
 ###
 
-<p align="left">📍 Location : Bangladesh<br>📧 Email : ashrafulpathan3927@gmail.com<br>💼 LinkedIn : Ashraful Pathan<br>🔗 Portfolio : My Portfolio</p>
+<p align="left">📍 Location : Bangladesh<br>📧 Email : ashrafulpathan3927@gmail.com
+  <br>
+  <a href="www.linkedin.com/in/ashraful-pathan">💼 LinkedIn : Ashraful Pathan </a>
+  <br>
+  <a href="https://ashraful-pathan.web.app/">🔗 Portfolio : My Portfolio</a>
+</p>
 
 ###
 
