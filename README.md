@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">🧭 Currently Exploring : Advanced features of Python<br>🔥 Working On : Next js Project<br>🎯 Goals : Make a company lick steve jobs
+<p align="left">🧭 Currently Exploring : Advanced features of Next js<br>🔥 Working On : Next js Project<br>🎯 Goals : Make a company lick steve jobs
 
 ###
 
