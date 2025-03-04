@@ -1,4 +1,4 @@
-<h1 align="left">𓍢ִ໋🌷͙    Ashraful Pathan</h1>
+<h1 align="left">𓍢🌷͙    Ashraful Pathan</h1>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">🧭 Currently Exploring : Advanced features of Python<br>🔥 Working On : Next js Project<br>🎯 Goals : Make a company lick steve jobs<br>🎲 Fun fact : I am interested in cyber security</p>
+<p align="left">🧭 Currently Exploring : Advanced features of Python<br>🔥 Working On : Next js Project<br>🎯 Goals : Make a company lick steve jobs
 
 ###
 
@@ -65,8 +65,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
 </div>
 
 ###
