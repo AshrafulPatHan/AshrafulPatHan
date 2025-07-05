@@ -30,23 +30,23 @@ Hi, I’m **Ashraful Pathan** — a passionate MERN Stack Developer from Banglad
 ###
 
 <div align="center">
-  <img src="https://www.ashraful.top/_next/static/media/icons8-javascript.a41c1c8f.svg" height="40" alt="javascript logo" />
+  <img src="https://www.ashraful.top/_next/static/media/icons8-javascript.a41c1c8f.svg" height="40"  width="60" alt="javascript logo" />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/icons8-typescript.b06e911a.svg" height="40" alt="typescript logo"  />
+  <img src="https://www.ashraful.top/_next/static/media/icons8-typescript.b06e911a.svg" height="40"  width="60" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/icons8-node-js.ffe7c986.svg" height="40" alt="nodejs logo"  />
+  <img src="https://www.ashraful.top/_next/static/media/icons8-node-js.ffe7c986.svg" height="40"  width="60" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://www.ashraful.top/_next/static/media/react.3b0445a3.svg" height="40"  width="60" alt="react logo"  />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/icons8-nextjs.6610a294.svg" height="40" alt="nextjs logo"  />
+  <img src="https://www.ashraful.top/_next/static/media/icons8-nextjs.6610a294.svg" height="40"  width="60" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/icons8-mysql.cf327f62.svg" height="40" alt="mysql logo"  />
+  <img src="https://www.ashraful.top/_next/static/media/icons8-mysql.cf327f62.svg" height="40"  width="60" alt="mysql logo"  />
   <img width="12" />
   <img src="https://www.ashraful.top/_next/static/media/mongodb.8dfec27f.svg" height="40" width="60" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/express.580bcb82.svg" height="40" alt="express logo"  />
+  <img src="https://www.ashraful.top/_next/static/media/express.580bcb82.svg" height="40"  width="60" alt="express logo"  />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/icons8-docker.03e5898c.svg" height="40" alt="docker logo"  />
+  <img src="https://www.ashraful.top/_next/static/media/icons8-docker.03e5898c.svg" height="40"  width="60" alt="docker logo"  />
 </div>
 
 ###
