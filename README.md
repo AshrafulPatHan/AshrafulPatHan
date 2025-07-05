@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" height="300" src="https://i.ibb.co.com/9kcsFzgz/Purple-4-1.jpg" />
+<img align="right" height="300" src="https://i.ibb.co/HTx4Mv61/Ashraful-Pathan.png" />
 
 ### 👋 About Me
 
