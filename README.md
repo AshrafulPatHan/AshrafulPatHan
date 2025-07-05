@@ -42,7 +42,7 @@ Hi, I’m **Ashraful Pathan** — a passionate MERN Stack Developer from Banglad
   <img width="12" />
   <img src="https://www.ashraful.top/_next/static/media/icons8-mysql.cf327f62.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/mongodb.8dfec27f.svg" height="40" width="40" alt="mongodb logo"  />
+  <img src="https://www.ashraful.top/_next/static/media/mongodb.8dfec27f.svg" height="40" width="50" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://www.ashraful.top/_next/static/media/express.580bcb82.svg" height="40" alt="express logo"  />
   <img width="12" />
