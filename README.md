@@ -59,6 +59,10 @@ Hi, I’m **Ashraful Pathan** — a passionate MERN Stack Developer from Banglad
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40"  width="60" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"  width="60" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://www.ashraful.top/_next/static/media/mongoose.3d1fdc99.svg" height="40"  width="60" alt="mongoose logo"  />
+  <img width="12" />
+  <img src="https://www.ashraful.top/_next/static/media/icons8-jwt.47a54c01.svg" height="40"  width="60" alt="JWT logo"  />
 </div>
 
 ###
