@@ -30,7 +30,7 @@ Hi, I’m **Ashraful Pathan** — a passionate MERN Stack Developer from Banglad
 ###
 
 <div align="center">
-  <img src="https://www.ashraful.top/_next/static/media/icons8-javascript.a41c1c8f.svg" height="40"  width="60" alt="javascript logo" />
+  <img src="https://www.ashraful.top/_next/static/media/icons8-javascript.a41c1c8f.svg" height="40"  width="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://www.ashraful.top/_next/static/media/icons8-typescript.b06e911a.svg" height="40"  width="60" alt="typescript logo"  />
   <img width="12" />
