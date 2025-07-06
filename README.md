@@ -30,63 +30,63 @@ Hi, I’m **Ashraful Pathan** — a passionate MERN Stack Developer from Banglad
 ###
 
 <div align="center">
-  <img src="https://www.ashraful.top/_next/static/media/icons8-javascript.a41c1c8f.svg" height="40"  width="30" alt="javascript logo" />
+  <img src="https://www.ashraful.top/_next/static/media/icons8-javascript.a41c1c8f.svg" height="40"  width="48" alt="javascript logo" />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/icons8-typescript.b06e911a.svg" height="40"  width="40" alt="typescript logo"  />
+  <img src="https://www.ashraful.top/_next/static/media/icons8-typescript.b06e911a.svg" height="40"  width="48" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/icons8-node-js.ffe7c986.svg" height="40"  width="45" alt="nodejs logo"  />
+  <img src="https://www.ashraful.top/_next/static/media/icons8-node-js.ffe7c986.svg" height="40"  width="48" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/react.3b0445a3.svg" height="40"  width="47" alt="react logo"  />
+  <img src="https://www.ashraful.top/_next/static/media/react.3b0445a3.svg" height="40"  width="48" alt="react logo"  />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/icons8-nextjs.6610a294.svg" height="40"  width="50" alt="nextjs logo"  />
+  <img src="https://www.ashraful.top/_next/static/media/icons8-nextjs.6610a294.svg" height="40"  width="48" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/icons8-mysql.cf327f62.svg" height="40"  width="53" alt="mysql logo"  />
+  <img src="https://www.ashraful.top/_next/static/media/icons8-mysql.cf327f62.svg" height="40"  width="48" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/mongodb.8dfec27f.svg" height="40" width="60" alt="mongodb logo"  />
+  <img src="https://www.ashraful.top/_next/static/media/mongodb.8dfec27f.svg" height="40" width="48" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/express.580bcb82.svg" height="40"  width="60" alt="express logo"  />
+  <img src="https://www.ashraful.top/_next/static/media/express.580bcb82.svg" height="40"  width="48" alt="express logo"  />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/icons8-docker.03e5898c.svg" height="40"  width="60" alt="docker logo"  />
+  <img src="https://www.ashraful.top/_next/static/media/icons8-docker.03e5898c.svg" height="40"  width="48" alt="docker logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"  width="60" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"  width="48" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"  width="60" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"  width="48" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/icons8-tailwindcss.d62a0f47.svg" height="40"  width="60" alt="tailwindcss logo"  />
+  <img src="https://www.ashraful.top/_next/static/media/icons8-tailwindcss.d62a0f47.svg" height="40"  width="48" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"  width="60" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"  width="48" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/mongoose.3d1fdc99.svg" height="40"  width="60" alt="mongoose logo"  />
+  <img src="https://www.ashraful.top/_next/static/media/mongoose.3d1fdc99.svg" height="40"  width="48" alt="mongoose logo"  />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/icons8-jwt.47a54c01.svg" height="40"  width="60" alt="JWT logo"  />
+  <img src="https://www.ashraful.top/_next/static/media/icons8-jwt.47a54c01.svg" height="40"  width="48" alt="JWT logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"  width="60" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"  width="48" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"  width="60" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"  width="48" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"  width="60" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"  width="48" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"  width="60" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"  width="48" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40"  width="60" alt="gitlab logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40"  width="48" alt="gitlab logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40"  width="60" alt="redux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40"  width="48" alt="redux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"  width="60" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"  width="48" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"  width="60" alt="flask logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"  width="48" alt="flask logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"  width="60" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"  width="48" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40"  width="60" alt="gimp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40"  width="48" alt="gimp logo"  />
 </div>
 
 ###
