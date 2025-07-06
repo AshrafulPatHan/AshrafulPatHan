@@ -93,32 +93,6 @@ Hi, I’m **Ashraful Pathan** — a passionate MERN Stack Developer from Banglad
 
 ---
 
-### 📂 Projects
-
-#### 🚀 [TECHNO-BLOGER](https://github.com/your-username/techno-bloger)
-
-> A powerful blog website with full CRUD, comment system, wishlist and rating feature.
-
-- Add, Update & Delete Blog Posts  
-- Commenting & Wishlist System  
-- Rating System with Best Rated View  
-- Responsive Design  
-**Tech:** React.js, Express.js, Node.js, MongoDB, Firebase, Tailwind CSS  
-🔗 [Live Site](https://your-live-link.com)
-
-#### 🎮 [Asum Gamer BD](https://github.com/your-username/asum-gamer-bd)
-
-> Game reviewing and rating platform.
-
-- Add/Edit/Delete Game Reviews  
-- Star Ratings & Comment Feature  
-- Dynamic Game Filtering  
-- Firebase Authentication  
-**Tech:** React.js, Node.js, Express, MongoDB, Tailwind CSS  
-🔗 [Live Site](https://your-live-link.com)
-
----
-
 ### 📚 Education & Training
 
 🎓 **Govt. Tolaram College & University**  
