@@ -127,8 +127,3 @@ With a strong grip on **React.js**, **Node.js**, and **MongoDB**, I strive to cr
   <br>🐦 Twitter/X: <a href="https://x.com/AshrafulPa25233">AshrafulPa25233</a>  
 </p>
 
----
-
-<p align="center">
-  Made with ❤️ by <strong>Ashraful Pathan</strong>
-</p>
