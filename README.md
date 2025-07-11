@@ -7,6 +7,7 @@
   <a href="mailto:ashrafulpathan3927@gmail.com"><img src="https://img.shields.io/badge/Email-ashrafulpathan3927@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ashrafulpathan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+<br/>
 
 ---
 
