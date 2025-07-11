@@ -12,6 +12,7 @@
 ---
 
 <img align="center" height="300" src="https://i.ibb.co/HTx4Mv61/Ashraful-Pathan.png" />
+<br/>
 
 ### 👋 About Me
 
