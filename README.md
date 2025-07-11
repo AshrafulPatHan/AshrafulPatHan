@@ -28,7 +28,6 @@ Hi, I’m **Ashraful Pathan** — a passionate MERN Stack Developer from Banglad
 
 ### 🛠️ Tech Stack
 
-
 ###
 
 <div align="center">
