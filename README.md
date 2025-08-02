@@ -123,7 +123,7 @@ With a strong grip on **React.js**, **Node.js**, and **MongoDB**, I strive to cr
 <p align="left">
   📧 Email: ashrafulpathan3927@gmail.com  
   <br>🌐 Website: <a href="https://ashraful.top" target="_blank">ashraful.top</a>  
-  <br>🔗 LinkedIn: <a href="https://www.linkedin.com/in/ashrafulpathan">ashrafulpathan</a>  
+  <br>🔗 LinkedIn: <a href="https://www.linkedin.com/in/ashraful-hasan-safin/">ashrafulpathan</a>  
   <br>📘 Facebook: <a href="https://www.facebook.com/profile.php?id=100090953234693">ashraful.pathan</a>  
   <br>🐦 Twitter/X: <a href="https://x.com/AshrafulPa25233">AshrafulPa25233</a>  
 </p>
