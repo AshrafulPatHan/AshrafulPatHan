@@ -1,6 +1,6 @@
 <h1 align="center">𓍢🌷͙ Ashraful Pathan</h1>
 
-<h3 align="center">MERN Stack Developer | React.js & Next.js Specialist | Backend Developer</h3>
+<h3 align="center">Full Stack Developer | React.js & Next.js Specialist | Backend Developer</h3>
 
 <p align="center">
   <a href="https://ashraful.top" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-0e76a8?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
