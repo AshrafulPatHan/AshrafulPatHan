@@ -17,7 +17,7 @@
 
 ### 👋 About Me
 
-Hi, I’m **Ashraful Pathan** — a passionate MERN Stack Developer from Bangladesh 🇧🇩
+Hi, I’m **Ashraful Pathan** — a passionate Full Stack Developer from Bangladesh 🇧🇩
 
 🔹 Over 1+ year of experience in full-stack web development.  
 🔹 Specialize in building modern, responsive, and scalable web applications.  
