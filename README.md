@@ -19,7 +19,7 @@
 
 Hi, I’m **Ashraful Pathan** — a passionate Full Stack Developer from Bangladesh 🇧🇩
 
-🔹 Over 1+ year of experience in full-stack web development.  
+🔹 Over 2+ year of experience in full-stack web development.  
 🔹 Specialize in building modern, responsive, and scalable web applications.  
 🔹 Love to code, learn new technologies, and bring ideas to life through clean and functional code.  
 🔹 Currently exploring **Next.js Advanced Features**, **Backend Optimization**, and **DevOps Basics**.  
