@@ -98,7 +98,7 @@ Hi, I’m **Ashraful Pathan** — a passionate Full Stack Developer from Banglad
 ### 📚 Education & Training
 
 🎓 **Govt. Tolaram College & University**  
-🎓 **Complete Web Development Course (Programming Hero)**  
+🎓 **Complete Web Development Course ( Programming Hero )**  
 📍 **Location:** Narayanganj, Bangladesh
 
 ---
