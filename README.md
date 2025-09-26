@@ -19,11 +19,11 @@
 
 Hi, I’m **Ashraful Pathan** — a passionate MERN Stack Developer from Bangladesh 🇧🇩
 
-🔹 Over 2+ year of experience in full-stack web development.  
-🔹 Specialize in building modern, responsive, and scalable web applications.  
-🔹 Love to code, learn new technologies, and bring ideas to life through clean and functional code.  
+🔹 Over 2+ year of experience in full-stack web development .  
+🔹 Specialize in building modern, responsive, and scalable web applications .  
+🔹 Love to code, learn new technologies, and bring ideas to life through clean and functional code .  
 🔹 Currently exploring **Next.js Advanced Features**, **Backend Optimization**, and **DevOps Basics**.  
-🔹 My goal is to one day build a tech company like Steve Jobs.
+🔹 My goal is to one day build a tech company like Steve Jobs .
 
 ---
 
