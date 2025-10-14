@@ -70,7 +70,7 @@ Hi, I’m **Ashraful Pathan** — a passionate MERN Stack Developer from Banglad
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="40"  width="48" alt="PHP logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" height="48"  width="48" alt="bash logo"  />  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo_for_bash.jpg" height="35"  width="48" alt="bash logo"  />  
 </div>
 
 ###
