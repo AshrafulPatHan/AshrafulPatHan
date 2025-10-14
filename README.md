@@ -66,7 +66,7 @@ Hi, I’m **Ashraful Pathan** — a passionate MERN Stack Developer from Banglad
   <img width="12" />
   <img src="https://www.ashraful.top/_next/static/media/icons8-jwt.47a54c01.svg" height="40"  width="48" alt="JWT logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="40"  width="48" alt="PHP logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Logo.min.svg" height="48"  width="48" alt="PHP logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Logo.min.svg" height="48"  width="78" alt="PHP logo"  />
   
 </div>
 
