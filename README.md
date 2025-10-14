@@ -38,7 +38,7 @@ Hi, I’m **Ashraful Pathan** — a passionate MERN Stack Developer from Banglad
   <img width="12" />
   <img src="https://www.ashraful.top/_next/static/media/icons8-node-js.ffe7c986.svg" height="40"  width="48" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/react.3b0445a3.svg" height="40"  width="48" alt="react logo"  />
+  <img src="https://www.ashraful.top/_next/static/media/react.3b0445a3.svg" height="35"  width="48" alt="react logo"  />
   <img width="12" />
   <img src="https://www.ashraful.top/_next/static/media/icons8-nextjs.6610a294.svg" height="40"  width="48" alt="nextjs logo"  />
   <img width="12" />
