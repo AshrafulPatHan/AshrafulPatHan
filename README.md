@@ -121,7 +121,7 @@ Hi, I’m **Ashraful Pathan** — a passionate MERN Stack Developer from Banglad
 ### 🎯 Career Objective
 
 I am **Ashraful Pathan**, a passionate and result-driven MERN Stack Developer.  
-With a strong grip on **React.js**, **Node.js**, and **MongoDB**, I strive to create real-world web solutions that are fast, scalable, and user-friendly. I believe in continuous learning and contributing to the development community.
+With a strong grip on **React.js**, **Node.js**, and **MongoDB**, I strive to create real-world web solutions that are fast, scalable, and user friendly. I believe in continuous learning and contributing to the development community.
 
 ---
 
