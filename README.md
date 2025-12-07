@@ -9,7 +9,7 @@
 </p>
 <br/>
 
-<img align="center" height="550" src="https://scontent.fdac175-1.fna.fbcdn.net/v/t39.30808-6/515438559_675014442206991_2750764430757289110_n.png?_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=QKN0_3TBeegQ7kNvwE1h5yQ&_nc_oc=AdnEtzX0baYIPGImqf4cO38Ji8hODPc4rTyBIqe0r7pI2Ia8Xe7YKDAF_RhBkzP6oR0&_nc_zt=23&_nc_ht=scontent.fdac175-1.fna&_nc_gid=n2cJRKtoOjTFqZtRtHl6sA&oh=00_AfhWNiuFHUMTcDfMUgYqP5Z8N5rp_S4eEFN48WO6gQiZ-g&oe=6930370F" />
+<img align="center" height="550" src="https://i.ibb.co.com/s9QDRB6W/Ashraful-Pathan.jpg" />
 
 ---
 
