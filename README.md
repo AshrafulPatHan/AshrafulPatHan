@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer | React.js & Next.js Specialist | Backend Developer</h3>
 
 <p align="center">
-  <a href="https://ashraful.top" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-0e76a8?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://ashraful-pathan.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-0e76a8?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:ashrafulpathan3927@gmail.com"><img src="https://img.shields.io/badge/Email-ashrafulpathan3927@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ashrafulpathan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
@@ -32,23 +32,23 @@ Hi, I’m **Ashraful Pathan** — a passionate MERN Stack Developer from Banglad
 ###
 
 <div align="center">
-  <img src="https://www.ashraful.top/_next/static/media/icons8-javascript.a41c1c8f.svg" height="40"  width="48" alt="javascript logo" />
+  <img src="https://www.ashraful-pathan.vercel.app/_next/static/media/icons8-javascript.a41c1c8f.svg" height="40"  width="48" alt="javascript logo" />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/icons8-typescript.b06e911a.svg" height="40"  width="48" alt="typescript logo"  />
+  <img src="https://www.ashraful-pathan.vercel.app/_next/static/media/icons8-typescript.b06e911a.svg" height="40"  width="48" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/icons8-node-js.ffe7c986.svg" height="40"  width="48" alt="nodejs logo"  />
+  <img src="https://www.ashraful-pathan.vercel.app/_next/static/media/icons8-node-js.ffe7c986.svg" height="40"  width="48" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/react.3b0445a3.svg" height="35"  width="48" alt="react logo"  />
+  <img src="https://www.ashraful-pathan.vercel.app/_next/static/media/react.3b0445a3.svg" height="35"  width="48" alt="react logo"  />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/icons8-nextjs.6610a294.svg" height="40"  width="48" alt="nextjs logo"  />
+  <img src="https://www.ashraful-pathan.vercel.app/_next/static/media/icons8-nextjs.6610a294.svg" height="40"  width="48" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/icons8-mysql.cf327f62.svg" height="40"  width="48" alt="mysql logo"  />
+  <img src="https://www.ashraful-pathan.vercel.app/_next/static/media/icons8-mysql.cf327f62.svg" height="40"  width="48" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/mongodb.8dfec27f.svg" height="40" width="48" alt="mongodb logo"  />
+  <img src="https://www.ashraful-pathan.vercel.app/_next/static/media/mongodb.8dfec27f.svg" height="40" width="48" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/express.580bcb82.svg" height="40"  width="48" alt="express logo"  />
+  <img src="https://www.ashraful-pathan.vercel.app/_next/static/media/express.580bcb82.svg" height="40"  width="48" alt="express logo"  />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/icons8-docker.03e5898c.svg" height="40"  width="48" alt="docker logo"  />
+  <img src="https://www.ashraful-pathan.vercel.app/_next/static/media/icons8-docker.03e5898c.svg" height="40"  width="48" alt="docker logo"  />
 </div>
 
 ###
@@ -58,13 +58,13 @@ Hi, I’m **Ashraful Pathan** — a passionate MERN Stack Developer from Banglad
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"  width="48" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/icons8-tailwindcss.d62a0f47.svg" height="40"  width="48" alt="tailwind css logo"  />
+  <img src="https://www.ashraful-pathan.vercel.app/_next/static/media/icons8-tailwindcss.d62a0f47.svg" height="40"  width="48" alt="tailwind css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"  width="48" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/mongoose.3d1fdc99.svg" height="40"  width="48" alt="mongoose logo"  />
+  <img src="https://www.ashraful-pathan.vercel.app/_next/static/media/mongoose.3d1fdc99.svg" height="40"  width="48" alt="mongoose logo"  />
   <img width="12" />
-  <img src="https://www.ashraful.top/_next/static/media/icons8-jwt.47a54c01.svg" height="40"  width="48" alt="JWT logo"  />
+  <img src="https://www.ashraful-pathan.vercel.app/_next/static/media/icons8-jwt.47a54c01.svg" height="40"  width="48" alt="JWT logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="35"  width="48" alt="Laravel logo"  />
   <img width="12" />
@@ -129,7 +129,7 @@ With a strong grip on **React.js**, **Node.js**, and **MongoDB**, I strive to cr
 
 <p align="left">
   📧 Email: ashrafulpathan3927@gmail.com  
-  <br>🌐 Website: <a href="https://ashraful.top" target="_blank">ashraful.top</a>  
+  <br>🌐 Website: <a href="https://ashraful-pathan.vercel.app" target="_blank">ashraful-pathan.vercel.app</a>  
   <br>🔗 LinkedIn: <a href="https://www.linkedin.com/in/ashraful-hasan-safin/">ashrafulpathan</a>  
   <br>📘 Facebook: <a href="https://www.facebook.com/profile.php?id=100090953234693">ashraful.pathan</a>  
   <br>🐦 Twitter/X: <a href="https://x.com/AshrafulPa25233">AshrafulPa25233</a>  
