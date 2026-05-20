@@ -32,13 +32,9 @@ Hi, I’m **Ashraful Pathan** — a passionate MERN Stack Developer from Banglad
 ###
 
 <div align="center">
-  <div>
   <img src="https://ashraful-pathan.vercel.app/_next/static/media/icons8-javascript.a41c1c8f.svg" height="40"  width="48" alt="javascript logo" />
-  </div>
   <img width="12" />
-  <div>
   <img src="https://ashraful-pathan.vercel.app/_next/static/media/icons8-typescript.b06e911a.svg" height="40"  width="48" alt="typescript logo"  />
-  </div>
   <img width="12" />
   <img src="https://ashraful-pathan.vercel.app/_next/static/media/icons8-node-js.ffe7c986.svg" height="40"  width="48" alt="nodejs logo"  />
   <img width="12" />
